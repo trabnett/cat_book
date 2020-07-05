@@ -1,0 +1,21 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "fun cat app",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cats",
+    "alice",
+    "hazel"
+  ],
+  "author": "alice_hazel_tim",
+  "license": "ISC"
+}
